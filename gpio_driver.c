@@ -79,6 +79,6 @@ module_init(gpio_driver_init);
 module_exit(gpio_driver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Bill Wang");
 MODULE_DESCRIPTION("A simple Linux GPIO driver for the Raspberry Pi");
 MODULE_VERSION("0.1");
